@@ -20,23 +20,6 @@
 
 ---
 
-## Table of Contents
-
-- [Why Hermes Active?](#why-hermes-active)
-- [Screenshots](#screenshots)
-- [Architecture](#architecture)
-- [Core Systems](#core-systems)
-- [Integrations](#integrations)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Quick Start](#quick-start)
-- [Configuration](#configuration)
-- [API Overview](#api-overview)
-- [Documentation](#documentation)
-- [License](#license)
-
----
-
 ## Why Hermes Active?
 
 <p align="center">
